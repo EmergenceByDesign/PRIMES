@@ -1,0 +1,9 @@
+# R_S Protocol Changelog
+
+## Revision 11.23+ (2025-10-17)
+- Replaced .txt with updated version
+- Preserved lineage from 11.22+ (first published version)
+- Optional .md and .pdf added for editing and archival clarity
+
+## Revision 11.22+ (2025-10-14)
+- First published version of R_S Protocol
